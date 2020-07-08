@@ -1,4 +1,4 @@
-package com.example.restservice.greetings;
+package com.example.restservice.greeting;
 
 public class Greeting {
     private final long id;
